@@ -138,13 +138,13 @@ a.btn.dark:focus {
     padding: 6.6em 15em 0em 0em;
 }
 
-.col-left.center1 {
+.col-left.center {
     float:left;
     width: 40%;
     padding:7.5em 0em 0em 15em;
 }
 
-.col-right.center1 {
+.col-right.center {
     float:left;
     width: 60%;
     padding: 5em 0em 0em 5em;
@@ -162,7 +162,7 @@ p {
     font-size: 1.2em;
 }
 
-.margin-center1 {
+.margin-center {
     margin-top: 8em;
     background-color: #f6f6f6;
     padding-bottom: 10em;
@@ -174,3 +174,42 @@ p {
     width: 100%;
     color: #f6f6f6;
 } */
+
+.container.clearfix.bottom h1 {
+    text-align: center;
+}
+
+.container.clearfix.bottom p {
+    text-align: center;
+    padding: 0em 12em;
+}
+
+.container.clearfix.bottom {
+    margin-top: 10em;
+    background-color: #f6f6f6 ;
+    padding-top: 10em;
+}
+
+.img-bottom {
+    text-align: center;
+    padding: 0% 20%;
+}
+
+.position-stars {
+    padding: 0% 32%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-footer {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.btn.big.last-btn {
+    margin: 2em 44%;
+    background-color:#265ee8 ;
+    color: white;
+}
